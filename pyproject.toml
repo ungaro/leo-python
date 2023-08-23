@@ -21,11 +21,11 @@ build-backend = "maturin"
 
 [project]
 name = "aleopy"
-description = "Build and run queries against data"
+description = "Call Aleo/Leo modules / functions from Python"
 readme = "README.md"
 license = {file = "LICENSE.txt"}
 requires-python = ">=3.6"
-keywords = ["ballista", "dataframe", "rust", "query-engine"]
+keywords = ["aleo", "leo", "zkp", "blockchain"]
 classifier = [
     "Development Status :: 2 - Pre-Alpha",
     "Intended Audience :: Developers",
@@ -48,8 +48,8 @@ dependencies = [
 ]
 
 [project.urls]
-documentation = "https://arrow.apache.org/apache/arrow-ballista/python"
-repository = "https://github.com/apache/arrow-ballista"
+documentation = "https://github.com/ungaro/leo-python"
+repository = "https://github.com/ungaro/leo-python"
 
 [tool.isort]
 profile = "black"
