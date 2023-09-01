@@ -17,7 +17,7 @@
   under the License.
 -->
 
-# Ballista Python Bindings (PyBallista)
+# Aleo Python Bindings (PyBallista)
 
 This is a Python library that binds to [Aleo and Leo](https://github.com/AleoHQ) codebases.
 
